@@ -1,2 +1,1 @@
-Bildirim1
-bildim2
+Oyun1 deki hatalar düzeltildi.
